@@ -70,7 +70,7 @@ package:
 #    - include-me.js
 #    - include-me-dir/**
 exclude:
-  - tmp/**
+  - tmp/**/*.tmp
   - example/**
 
 functions:
